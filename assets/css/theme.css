@@ -7,6 +7,9 @@
   Version: 1.0
  */
 
+ html {
+  scroll-behavior: smooth;
+}
 :root {
   --primary: #6C55F9;
   --accent: #FF3D85;
