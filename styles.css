@@ -413,3 +413,18 @@ footer {
     justify-content: center;
   }
 }
+
+@media screen and (max-width: 600px) {
+ 
+  .logo > img {
+    font-size: 20px;
+    width: 200px;
+  }
+
+  header .container {
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+}
